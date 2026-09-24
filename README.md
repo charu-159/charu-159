@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi I am Charu Patel 👋</h1>
-<h3 align="center">👋 About Me: 🎓 Btech CSE student at BGIEM, Jabalpur (2024 - 2028) |💻 Web Developer |🧩 DSA Enthusiast</h3>
+<h3 align="center">👋 About Me: 
+  🎓 Btech CSE student at BGIEM, Jabalpur (2024 - 2028) 
+  💻 Web Developer |🧩 DSA Enthusiast</h3>
 
-- 🚀 Currently Working On **🌐 Learning MERN Stack Development 💻 Building Web Development Projects 🧠 Improving my DSA & Problem-Solving Skills**
+- 🚀 Currently Working On **🌐 Learning MERN Stack Development 
+
 
 - 🌱 I’m currently learning **🍃 MongoDB ⚡ Express.js ⚛️ React.js 🟢 Node.js 🔗 Full-Stack Development**
 
